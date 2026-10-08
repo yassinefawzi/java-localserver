@@ -1,0 +1,5 @@
+out/
+*.class
+www/uploads/*
+!www/uploads/.gitkeep
+/tmp/
